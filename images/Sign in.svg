@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140 114">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: rgba(255,10,10,0.94);
+        font-size: 43px;
+        font-family: SegoeUI-Bold, Segoe UI;
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <text id="Sign_in_" data-name="Sign in
+" class="cls-1" transform="translate(0 46)"><tspan x="0" y="0">Sign in</tspan><tspan x="0" y="57"></tspan></text>
+</svg>
